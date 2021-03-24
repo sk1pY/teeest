@@ -20,7 +20,7 @@ if(!empty($user))
                     header("location: /index.php");
                     echo "++++++++";
                 }else{
-                    echo 'пользователь заблокирован';
+                    echo 'пользователь заблокирован1';
                 }
             }else{
                 echo 'пароль не верный';
